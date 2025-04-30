@@ -63,12 +63,6 @@ Niccolus_Miranda/
 
 ---
 
-## 📸 Screenshots
-
-> *Include screenshots or a link to a demo video showcasing the portfolio in action.*
-
----
-
 ## 🧑‍💻 Author
 
 **Pratham Bindal**
